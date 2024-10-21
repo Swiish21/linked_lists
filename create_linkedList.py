@@ -31,5 +31,8 @@ my_linkedList = LinkedList(4)
 my_linkedList.append(3)
 my_linkedList.append(2)
 
+
 my_linkedList.print_linkedList()
+
+#fully functional linked list
         
