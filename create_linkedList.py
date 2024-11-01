@@ -11,7 +11,8 @@ class LinkedList:
         self.head = new_node
         self.tail = new_node
         self.length = 1
-
+        
+    """a funtion to print a LL"""
     def print_linkedList(self):
         temp = self.head
         while temp is not None:
