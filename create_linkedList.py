@@ -1,8 +1,10 @@
+#class to create a single node
 class Node:
     def __init__(self, value):
         self.value = value
         self.next = None
 
+# a class to perform different operations on a LL 
 class LinkedList:
     def __init__(self, value):
         new_node = Node(value)
