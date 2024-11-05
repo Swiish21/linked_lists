@@ -19,7 +19,7 @@ my_linkedList = LinkedList(4)
 # my_linkedList = LinkedList()
 
 #to print the value of a certain node in a LL we do it the way shown below
-#var name of the LL, then head and its value(for a longer LL we use sth different)
+#var name of the Linked List, then head and its value(for a longer LL we use sth different)
 print(my_linkedList.head.value)
 print(my_linkedList.tail.value)
 print(my_linkedList.length)
