@@ -37,5 +37,5 @@ my_linkedList.append(2)
 
 my_linkedList.print_linkedList()
 
-#fully functional linked list with functions
+#fully functional linked list with functions to append, print and create new nodes
         
